@@ -16,8 +16,12 @@
         <h1>Hello World!</h1>
         <h1>KhoaNN</h1>
 =======
-        <h1>Viet Anh</h1>
+        <h1>Anh</h1>
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
+        <h1>Minh Duc</h1>
 >>>>>>> FETCH_HEAD
 =======
         <h1>Minh Duc</h1>
