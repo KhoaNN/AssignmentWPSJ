@@ -17,6 +17,10 @@
         <h1>KhoaNN</h1>
 =======
         <h1>Viet Anh</h1>
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
+        <h1>Minh Duc</h1>
 >>>>>>> FETCH_HEAD
     </body>
 </html>
