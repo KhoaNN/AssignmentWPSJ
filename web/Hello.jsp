@@ -12,7 +12,11 @@
         <title>JSP Page</title>
     </head>
     <body>
+<<<<<<< HEAD
         <h1>Hello World!</h1>
         <h1>KhoaNN</h1>
+=======
+        <h1>Viet Anh</h1>
+>>>>>>> FETCH_HEAD
     </body>
 </html>
