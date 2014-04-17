@@ -13,6 +13,7 @@
     </head>
     <body>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <h1>Hello World!</h1>
         <h1>KhoaNN</h1>
 =======
@@ -25,6 +26,10 @@
 >>>>>>> FETCH_HEAD
 =======
         <h1>Minh Duc</h1>
+>>>>>>> FETCH_HEAD
+=======
+        <h1>aaaaaa</h1>
+        <h1>aaaaaa</h1>
 >>>>>>> FETCH_HEAD
     </body>
 </html>
